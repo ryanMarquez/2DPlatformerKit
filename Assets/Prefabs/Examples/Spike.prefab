@@ -115,18 +115,11 @@ MonoBehaviour:
     triggerExitEvent:
       m_PersistentCalls:
         m_Calls: []
-  triggeringObjectEvents:
-    triggeringObjectEnterEvent:
-      m_PersistentCalls:
-        m_Calls: []
-    triggeringObjectExitEvent:
-      m_PersistentCalls:
-        m_Calls: []
   triggerableByPlayer: 1
   triggerableByObject: 0
   triggerableByTaggedObject: 0
   objectTag: 
-  destroyAfterTrigger: 0
+  numberOfUses: -1
   drawTriggerArea: 1
   drawTriggerLines: 1
   triggerAreaColor: {r: 0, g: 1, b: 0, a: 0.5}
@@ -328,4 +321,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6672b214852d14218be768a1337dc53d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  forceToAdd: {x: 0, y: 0, z: 0}
   consoleLog: 0
