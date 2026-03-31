@@ -81,7 +81,7 @@ MonoBehaviour:
       m_PersistentCalls:
         m_Calls: []
   triggerableByPlayer: 1
-  triggerableByObject: 1
+  triggerableByObject: 0
   triggerableByTaggedObject: 0
   objectTag: 
   numberOfUses: -1
